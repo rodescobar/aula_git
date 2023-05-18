@@ -15,3 +15,8 @@ git commit -m "Primeiro UP"
 
 ##Despachar (PRIMEIRA VEZ)
 git push --set-upstream origin master
+
+
+##Configuracao de email e nome
+git config --global user.email "rodescobar@gmail.com"
+git config --global user.name "Rodrigo Escobar"
